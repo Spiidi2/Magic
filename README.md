@@ -1,5 +1,3 @@
 # Magic the Gathering rules
 
-
-
-## Available Scripts
+website: https://magic-the-gathering2.herokuapp.com/
